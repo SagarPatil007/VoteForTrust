@@ -1,0 +1,28 @@
+.form-container{
+    background:  #ffff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 6px 0px #000;
+    position: relative;
+    /* top: 5vh; */
+}
+
+.footer{
+    background: rgb(41, 37, 37);
+    display: block;
+    padding: 2vh;
+}
+
+.notice p{
+    color: blue;
+    font-size: 18px;
+}
+
+.notice label {
+    font-style: bold;
+    
+}
+
+.center-div{
+    position: relative;
+}
